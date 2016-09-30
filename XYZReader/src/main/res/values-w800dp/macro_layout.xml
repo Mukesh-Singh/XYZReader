@@ -1,0 +1,13 @@
+<resources>
+    <!-- list -->
+    <dimen name="list_side_margin">64dp</dimen>
+    <dimen name="list_toolbar_side_margin">52dp</dimen> <!-- minus 64 - 12 -->
+    <integer name="list_column_count">3</integer>
+
+    <!-- detail -->
+    <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="list_item_card_margin">4dp</dimen>
+    <dimen name="article_detail_photo_max_height">900dp</dimen>
+    <item name="placeholder_article_aspect_ratio" format="float" type="dimen">3</item>
+    <dimen name="article_detail_anchor_height">144dp</dimen>
+</resources>

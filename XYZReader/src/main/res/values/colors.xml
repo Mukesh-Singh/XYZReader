@@ -1,0 +1,46 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorAccent">#00E676</color>
+
+    <color name="details_title_background">@color/colorPrimary</color>
+
+
+    <color name="textColorTitle">#111111</color>
+    <color name="textColorSubtitle">#212121</color>
+    <color name="bodyColorSubtitle">#313131</color>
+    <color name="linkColor">#2020ff</color>
+    <color name="gray_background">#e4e4e4</color>
+
+    <color name="detailsTextColorTitle">#cccccc</color>
+    <color name="detailsTextColorSubtitle">#aaaaaa</color>
+
+    <array name="swipe_progress_colors">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/linkColor</item>
+        <item>@color/details_title_background</item>
+
+    </array>
+
+
+</resources>
